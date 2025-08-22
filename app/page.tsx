@@ -188,7 +188,7 @@ export default function LandingPage() {
           <div className="text-center space-y-12 mt-12">
             <div className="max-w-4xl mx-auto">
               <Badge variant="secondary" className="mb-6 text-sm font-medium">
-                ✨ Primeira Avaliação Gratuita
+                ✨ Primeira Orientação Gratuita
               </Badge>
 
               <h1 className="text-4xl md:text-6xl font-bold text-foreground mb-6 font-[family-name:var(--font-space-grotesk)]">
@@ -268,13 +268,12 @@ export default function LandingPage() {
                   <Heart className="h-8 w-8 text-primary" />
                 </div>
                 <CardTitle className="text-xl mb-2">
-                  Primeira Consulta Gratuita
+                 Conheça nosso trabalho sem compromisso
                 </CardTitle>
               </CardHeader>
               <CardContent>
                 <CardDescription className="text-base">
-                  Conheça nosso trabalho sem compromisso. Avaliação completa e
-                  plano inicial sem custo.
+                  Orientações gerais e de como funciona nosso tratamento
                 </CardDescription>
               </CardContent>
             </Card>
@@ -392,7 +391,7 @@ export default function LandingPage() {
               </div>
               <div>
                 <h3 className="text-xl font-semibold text-foreground mb-2">
-                  Agende sua Consulta Gratuita
+                  Agende sua Consulta
                 </h3>
                 <p className="text-muted-foreground">
                   Entre em contato conosco e agende sua primeira avaliação sem
@@ -463,7 +462,7 @@ export default function LandingPage() {
             </Button>
           </div>
           <p className="text-sm opacity-75">
-            ⏰ Vagas limitadas para consultas gratuitas este mês
+            ⏰ Vagas limitadas para este mês
           </p>
         </div>
       </section>
@@ -483,11 +482,11 @@ export default function LandingPage() {
           <Accordion type="single" collapsible className="space-y-4">
             <AccordionItem className="no-underline" value="faq-1">
               <AccordionTrigger className="text-lg">
-                A primeira consulta é realmente gratuita?
+                A primeira orientação é realmente gratuita?
               </AccordionTrigger>
               <AccordionContent>
                 <p className="text-muted-foreground">
-                  Sim! Oferecemos a primeira avaliação sem custo para que você conheça nosso trabalho. Nesta consulta, fazemos uma avaliação completa e já fornecemos orientações iniciais.
+                  Sim! Oferecemos a primeira orientação sem custo para que você conheça nosso trabalho, fornecendo orientações iniciais.
                 </p>
               </AccordionContent>
             </AccordionItem>
@@ -509,7 +508,7 @@ export default function LandingPage() {
               </AccordionTrigger>
               <AccordionContent>
                 <p className="text-muted-foreground">
-                  Nossos valores são acessíveis e oferecemos opções de parcelamento. Durante a consulta gratuita, explicamos todos os valores e formas de pagamento disponíveis.
+                  Nossos valores são acessíveis e oferecemos opções de parcelamento. Durante a orientação gratuita, explicamos todos os valores e formas de pagamento disponíveis.
                 </p>
               </AccordionContent>
             </AccordionItem>
@@ -589,7 +588,7 @@ export default function LandingPage() {
               <div className="space-y-2">
                 <div className="flex items-center gap-2 text-sm text-muted-foreground">
                   <CheckCircle className="h-4 w-4 text-primary" />
-                  <span>Primeira consulta gratuita</span>
+                  <span>Primeira orientação gratuita</span>
                 </div>
                 <div className="flex items-center gap-2 text-sm text-muted-foreground">
                   <CheckCircle className="h-4 w-4 text-primary" />
