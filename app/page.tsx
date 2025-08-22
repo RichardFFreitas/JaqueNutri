@@ -561,7 +561,7 @@ export default function LandingPage() {
               </p>
               <div className="flex items-center gap-2 text-sm text-muted-foreground">
                 <Shield className="h-4 w-4 text-primary" />
-                <span>CRN: 12345 - Especialista em Oncologia</span>
+                <span>CRN: 24100235 - Especialista em Oncologia</span>
               </div>
             </div>
 
