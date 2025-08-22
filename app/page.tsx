@@ -167,7 +167,7 @@ export default function LandingPage() {
 
       {/* Hero Section */}
       <section className="relative bg-gradient-to-br from-primary/5 to-secondary/5 py-8 px-4">
-        <div className="max-w-[1700px] mx-auto">
+        <div className="max-w-[1480px] mx-auto">
           {/* Hero Image - Full Width */}
           <div className="relative flex flex-col items-center justify-center mb-8">
             <Image
